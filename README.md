@@ -4,7 +4,7 @@ Next.js + MySQL + ChromaDB.
 
 | Part | Owner | Contents |
 |------|-------|----------|
-| Person 1 — Research Paper Management | — | `Authors`, `ResearchPapers`, `PaperAuthors` tables; paper CRUD; search by title / author / domain; ChromaDB semantic search; `/papers` pages |
+| Person 1 — Research Paper Management | Atharvi | `Authors`, `ResearchPapers`, `PaperAuthors` tables; paper CRUD; search by title / author / domain; ChromaDB semantic search; `/papers` pages |
 | Person 2 — Users & Collaboration | Chandana | `Users`, `Bookmarks`, `Collaborations`, `Comments`, `Ratings`; register/login; dashboard; bookmarks; collaboration pages |
 
 ## Setup
